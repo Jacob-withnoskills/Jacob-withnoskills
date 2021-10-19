@@ -43,4 +43,8 @@
 #### Github Stats
 
 ![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=Jacob-withnoskills&count_private=true&theme=tokyonight&hide=contribs,prs)
+https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-withnoskills
+
+![Jacob's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-withnoskills&count_private=true&theme=tokyonight&hide=contribs,prs)
+
 
