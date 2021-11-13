@@ -44,6 +44,8 @@
 
 ![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=Jacob-withnoskills&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+<p><img align="centret" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacob-withnoskills&theme=tokyonight" alt="Jacob-withnoskills" /></p>
+
 
 ![Jacob's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-withnoskills&count_private=true&theme=tokyonight&hide=contribs,prs)
 
