@@ -1,6 +1,6 @@
 ## Hi I'm Nishant <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
- People also call me Jacob . I'm a CS Student  and Content Creator on [Youtube](https://www.youtube.com/channel/UCH5MEb1gKaQjeI9kv5fqMRw). 
+ Call me Jacob . I'm a CS Student  and Content Creator on [Youtube](https://www.youtube.com/channel/UCH5MEb1gKaQjeI9kv5fqMRw). 
  
 
  <img align= "right" width="400" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
