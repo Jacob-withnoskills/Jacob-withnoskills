@@ -38,7 +38,7 @@
 [![Azure Badge](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#) 
 
 
-## 👩‍💻 Recomanded IDE [🔝](#welcome-badges-4-readmemd-profile)
+## 👩‍💻 Recommended IDE [🔝](#welcome-badges-4-readmemd-profile)
 
 [![Visual S Badge](https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=black&logo=visual%20studio%20code)](#)
 [![Visual C Badge](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=white)](#)
