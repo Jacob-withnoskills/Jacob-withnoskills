@@ -26,7 +26,7 @@
 
 
 - 🔭 I’m currently a Student
-- Trying learn Everything I can
+- Trying to learn Everything I can
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - Most used Shortcuts: Ctrl + C and Ctrl + V
 
