@@ -3,8 +3,8 @@
  Call me Jacob . I'm a CS Student  and Content Creator on [Youtube](https://www.youtube.com/channel/UCH5MEb1gKaQjeI9kv5fqMRw). 
  
 
- <img align= "right" width="400" src="https://giphy.com/embed/fwbZnTftCXVocKzfxR">
- <iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>
+ <img align= "right" width="400" src=https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
+
 
 :mailbox: Reach me out!
 
