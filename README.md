@@ -8,7 +8,7 @@
 :mailbox: Reach me out!
 
 
-[![Twitter Badge](https://img.shields.io/badge/-DevCS_Jacob-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DevCS_Jacob)](https://twitter.com/DevCS_Jacob) [![Mail Badge](https://img.shields.io/badge/-Jacob-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCH5MEb1gKaQjeI9kv5fqMRw) [![Linkedin Badge](https://img.shields.io/badge/-Nishant-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-chaki-59391018b/) [![Mail Badge](https://img.shields.io/badge/-Jacob-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_xedward_/) 
+[![Twitter Badge](https://img.shields.io/badge/-DevCS_Jacob-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DevCS_Jacob)](https://twitter.com/DevCS_Jacob) [![Mail Badge](https://img.shields.io/badge/-Jacob-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCH5MEb1gKaQjeI9kv5fqMRw) [![Linkedin Badge](https://img.shields.io/badge/-Nishant-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-chaki-59391018b/) [![Mail Badge](https://img.shields.io/badge/-Jacob-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jacob.3ds/) 
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 
 
@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently a Student
 - Trying to learn Everything I can
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `git push -u origin"`
 - Most used Shortcuts: Ctrl + C and Ctrl + V
 
 ## 💻  Technologies & Engines [🔝](#welcome-badges-4-readmemd-profile)
