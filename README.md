@@ -3,7 +3,7 @@
  Call me Jacob . I'm a CS Student  and Content Creator on [Youtube](https://www.youtube.com/channel/UCH5MEb1gKaQjeI9kv5fqMRw). 
  
 
- <img align= "right" width="400" src=https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
+ <img align= "right" width="400" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
 
 :mailbox: Reach me out!
