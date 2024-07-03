@@ -1,30 +1,36 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-## Hi I'm Nishant <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+##  Welcome to Nishant's Repo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
- Call me Jacob . I'm a CS Student  and Content Creator on [Youtube](https://www.youtube.com/channel/UCH5MEb1gKaQjeI9kv5fqMRw). 
+ <i>Call me Jacob . I'm a CS Student  and Content Creator on [Youtube](https://www.youtube.com/channel/UCH5MEb1gKaQjeI9kv5fqMRw). </i>
 <p align="center">
 <img src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif"> 
 
+<p align="center">
+
+<b>FUN FACT 🤔 :</b>
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝Japanese anime makes up 60% of all animation in the world. The first anime that was shown in the USSR was “The Flying Ghost Ship”. The style of drawing the body and hair of anime characters was invented by the Japanese. But the drawing of the eyes was borrowed from Walt Disney.❞</i>
+<!--ENDS_HERE_QUOTE_README-->
 
 :mailbox: Reach me out!
 
 
-[![Twitter Badge](https://img.shields.io/badge/-DevCS_Jacob-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DevCS_Jacob)](https://twitter.com/DevCS_Jacob) [![Mail Badge](https://img.shields.io/badge/-Jacob-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCH5MEb1gKaQjeI9kv5fqMRw) [![Linkedin Badge](https://img.shields.io/badge/-Nishant-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-chaki-59391018b/) [![Mail Badge](https://img.shields.io/badge/-Jacob-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jacob.3ds/) 
-## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
+[![Twitter Badge](https://www.vectorlogo.zone/logos/x/x-icon.svg)](https://twitter.com/DevCS_Jacob) [![Mail Badge](https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg)](https://www.youtube.com/channel/UCH5MEb1gKaQjeI9kv5fqMRw) [![Linkedin Badge](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/nishant-chaki-59391018b/) [![Mail Badge](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://www.instagram.com/ssh.jacob/) 
+## 👩‍💻 Skills [🔝](#welcome-badges-4-readmemd-profile)
 
 
 
-[![C/C++ Badge](https://img.shields.io/badge/-C/C++-61DBFB?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=61DBFB)](#) [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ [![Java Badge](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](#) [![Python Badge](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](#) [![MySql Badge](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](#) <a href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"/> </a> ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg) ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)
+[![Spring Badge](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)](#)
 
 
 
 ## 💻 Fav OS [🔝](#welcome-badges-4-readmemd-profile)
 
-[![Fedora Badge](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&labelColor=black&logo=fedora&logoColor=294172)](#)
-[![Kali Badge](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&labelColor=black&logo=kali-linux&logoColor=557C94)](#)
-[![Windows Badge](https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)](#)
+[![Fedora Badge](https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg)](#)
+[![Windows Badge](https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg)](#)
 
 
 
@@ -35,26 +41,51 @@
 
 ## 💻  Technologies & Engines [🔝](#welcome-badges-4-readmemd-profile)
 
-[![Unreal Badge](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&labelColor=white&logo=unreal-engine&logoColor=313131)](#)
-[![Unity Badge](https://img.shields.io/badge/-Unity-100000?style=for-the-badge&labelColor=black&logo=Unity&logoColor=white)](#)
-[![AndroidStudio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](#) 
-[![Azure Badge](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#) 
+[![BI Badge](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg)](#)
+[![Spark Badge](https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg)](#)
+[![Jenkins Badge](https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg)](#) 
+[![Azure Badge](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg)](#) 
+[![Docker Badge](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)](#) 
+
 
 
 ## 👩‍💻 Recommended IDE [🔝](#welcome-badges-4-readmemd-profile)
 
-[![Visual S Badge](https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=black&logo=visual%20studio%20code)](#)
-[![Visual C Badge](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=white)](#)
-[![AndroidStudio Badge](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#) 
+[![Visual S Badge](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)](#)
+[![Jupyter Badge](https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg)](#)
+
 
 #### Github Stats
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-withnoskills&count_private=true&theme=tokyonight&hide=contribs,prs" /></p>
 
 ![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=Jacob-withnoskills&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+
 <p><img align="centret" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacob-withnoskills&theme=tokyonight" alt="Jacob-withnoskills" /></p>
 
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-![Jacob's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-withnoskills&count_private=true&theme=tokyonight&hide=contribs,prs)
+<!--🤔INTERESTTITLE-->
+<p align="center">
+<img src="https://i.imgur.com/ozEwbHs.gif">
+
+<!--🖼️🖼️INTERSTLOGOS-->
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="60">
+<img src="" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+</h4>
+
+
 <!--SPIDER--> 
 <p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
  
