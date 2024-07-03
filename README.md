@@ -1,11 +1,13 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-##  Welcome to Nishant's Repo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## <i> It's Me, the human behind the code. 🤓  When I'm not debugging, you can find me Gaming.  I believe code is like poetry – elegant, expressive, and sometimes a bit buggy. Let's build something beautiful together</i>
 
- <i>Call me Jacob . I'm a CS Student  and Content Creator on [Youtube](https://www.youtube.com/channel/UCH5MEb1gKaQjeI9kv5fqMRw). </i>
+ 
 <p align="center">
 <img src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif"> 
+
+
 
 <p align="center">
 
@@ -23,8 +25,8 @@
 
 
  [![Java Badge](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](#) [![Python Badge](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](#) [![MySql Badge](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](#) <a href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"/> </a> ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg) ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)
-[![Spring Badge](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)](#)
-
+[![Spring Badge](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)](#)![Tensorflow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg
+)
 
 
 ## 💻 Fav OS [🔝](#welcome-badges-4-readmemd-profile)
