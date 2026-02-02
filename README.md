@@ -36,7 +36,7 @@
 
 
 
-- 🔭 I’m currently a Student
+- 🔭 I’m currently a Working professional 
 - Trying to learn Everything I can
 - :computer: Most used line of code `git push -u origin"`
 - Most used Shortcuts: Ctrl + C and Ctrl + V
